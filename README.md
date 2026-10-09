@@ -1,9 +1,7 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Hafiz+Syed+Habib+Ahmad+Gillani;AI%2FML+Engineer;Python+Developer;Full-Stack+Developer;Software+Engineer;AI+Research+Enthusiast" alt="Typing SVG" />
-
   <h1>
-    <img src="https://img.shields.io/badge/Welcome-to-my-GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="welcome badge" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Hafiz+Syed+Habib+Ahmad+Gillani;AI%2FML+Engineer;Python+Developer;Full-Stack+Developer;Software+Engineer;AI+Research+Enthusiast" alt="Typing SVG" />
   </h1>
 
   <p>
@@ -12,13 +10,13 @@
 
   <p>
     <a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
     </a>
     <a href="https://github.com/syedhabibahmadg" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" />
     </a>
     <a href="mailto:hafizsyedhabibahmadgillani@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
     </a>
   </p>
 
@@ -28,17 +26,17 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate <strong>AI/ML engineer, Python developer, and software engineer</strong> with a strong foundation in Computer Science from the <strong>University of Engineering and Technology (UET), Lahore, Pakistan</strong>. I am currently pursuing an <strong>MSc in Artificial Intelligence</strong> and deeply interested in building intelligent systems that solve real-world problems.
+I am a passionate AI/ML engineer, Python developer, and software engineer with a strong foundation in Computer Science from the University of Engineering and Technology (UET), Lahore, Pakistan. I am currently pursuing an MSc in Artificial Intelligence and actively exploring the fields of Generative AI, Large Language Models, Computer Vision, Deep Learning, and Intelligent Automation.
 
-My work and interests span across:
-- Generative AI and Large Language Models
-- Agentic AI and AI automation
+My interests include:
+- Generative AI and LLMs
+- Agentic AI and intelligent automation
 - Computer Vision and Deep Learning
-- NLP and intelligent information systems
-- Full-stack software development
-- Python-based automation and scalable engineering
+- NLP and intelligent systems
+- Full-stack development
+- Python automation and scalable engineering
 
-I enjoy turning ideas into practical AI-powered products and building solutions that are both technically strong and impactful.
+I enjoy building practical AI-powered applications that solve real-world problems and create meaningful value.
 
 ---
 
@@ -59,50 +57,50 @@ I enjoy turning ideas into practical AI-powered products and building solutions 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)
 
 ### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-1F6FEB?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A0A0A?style=flat)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat)
 
 ### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat)
 
 ---
 
@@ -147,7 +145,7 @@ I enjoy turning ideas into practical AI-powered products and building solutions 
 ## 🚀 Featured Projects
 
 ### AI-Based Online Examination and Proctoring System (IntelliExam)
-A project focused on secure online assessment, behavior analysis, and AI-driven exam integrity monitoring.
+AI-powered online assessment and proctoring system focused on secure evaluation and behavior monitoring.
 
 **Tech Stack:** Python • OpenCV • TensorFlow • FastAPI • React • PostgreSQL  
 **Repository:** Add your real repo link here
@@ -155,7 +153,7 @@ A project focused on secure online assessment, behavior analysis, and AI-driven 
 ---
 
 ### AI and Machine Learning Applications
-A collection of AI/ML projects covering deep learning, computer vision, NLP, and intelligent automation.
+Collection of projects covering deep learning, computer vision, NLP, and intelligent automation.
 
 **Tech Stack:** Python • PyTorch • TensorFlow • Scikit-learn • OpenCV  
 **Repository:** Add your real repo link here
@@ -163,7 +161,7 @@ A collection of AI/ML projects covering deep learning, computer vision, NLP, and
 ---
 
 ### Python Automation Tools
-Automation utilities for repetitive tasks, workflow optimization, and productivity enhancement.
+Tools and scripts for productivity, workflows, automation, and system optimization.
 
 **Tech Stack:** Python • Selenium • BeautifulSoup • Asyncio  
 **Repository:** Add your real repo link here
@@ -171,7 +169,7 @@ Automation utilities for repetitive tasks, workflow optimization, and productivi
 ---
 
 ### Full-Stack Web Applications
-Modern and scalable web applications with strong frontend and backend architecture.
+Modern and scalable applications with strong front-end, back-end, and deployment architecture.
 
 **Tech Stack:** React • Next.js • Node.js • FastAPI • PostgreSQL • Docker  
 **Repository:** Add your real repo link here
@@ -192,13 +190,13 @@ Modern and scalable web applications with strong frontend and backend architectu
 <div align="center">
 
   <a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://github.com/syedhabibahmadg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" />
   </a>
   <a href="mailto:hafizsyedhabibahmadgillani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
   </a>
 
 </div>
@@ -227,7 +225,7 @@ I am open to:
 - Software engineering opportunities
 - Full-stack development projects
 - Open-source contributions
-- Automation and intelligent systems
+- Intelligent automation systems
 
 If you want to build something impactful with AI, automation, or modern software engineering, feel free to connect.
 
@@ -235,7 +233,7 @@ If you want to build something impactful with AI, automation, or modern software
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=flat-square" alt="Made with love" />
 
   <p><strong>Hafiz Syed Habib Ahmad Gillani</strong></p>
 
