@@ -1,272 +1,191 @@
+<!-- Premium GitHub Profile | syedhabibahmadg -->
 <div align="center">
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Hafiz+Syed+Habib+Ahmad+Gillani;AI%2FML+Engineer;Python+Developer;Full-Stack+Developer;Software+Engineer;AI+Research+Enthusiast" alt="Typing SVG" />
-  </h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1026,45:27346B,100:00C9D9&text=Hafiz%20Syed%20Habib%20Ahmad%20Gillani&fontColor=FFFFFF&fontSize=32&fontAlignY=38&desc=Building%20intelligent%20systems%20that%20matter&descAlignY=59&descSize=17&animation=fadeIn" alt="Profile header" />
 
-  <p>
-    <strong>Computer Science Graduate • MSc in Artificial Intelligence • AI/ML Enthusiast • Software Engineer</strong>
-  </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1100&color=33D6E8&center=true&vCenter=true&width=780&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Python+%26+Full-Stack+Developer;Computer+Vision+%7C+NLP+%7C+Automation;Always+learning.+Always+building." alt="Animated roles" /></a>
 
-  <p>
-    <a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/syedhabibahmadg" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" />
-    </a>
-    <a href="mailto:hafizsyedhabibahmadgillani@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
-    </a>
-  </p>
+<p><strong>Computer Science Graduate · MSc Artificial Intelligence · Lahore, Pakistan</strong></p>
+
+<a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hafizsyedhabibahmadgillani@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/syedhabibahmadg?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=syedhabibahmadg&label=PROFILE+VIEWS&color=00bcd4&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+## ✦ About me
 
-## 👨‍💻 About Me
+I'm a Computer Science graduate from **University of Engineering and Technology (UET), Lahore**, currently pursuing an **MSc in Artificial Intelligence**. I build practical software at the intersection of **AI research, automation, and full-stack engineering** — from computer vision and NLP to intelligent document systems and scalable APIs.
 
-I am a passionate AI/ML engineer, Python developer, and software engineer with a strong foundation in Computer Science from the University of Engineering and Technology (UET), Lahore, Pakistan. I am currently pursuing an MSc in Artificial Intelligence and actively exploring the fields of Generative AI, Large Language Models, Computer Vision, Deep Learning, and Intelligent Automation.
+<table><tr><td width="50%" valign="top">
 
-My interests include:
-- Generative AI and LLMs
-- Agentic AI and intelligent automation
-- Computer Vision and Deep Learning
-- NLP and intelligent systems
-- Full-stack development
-- Python automation and scalable engineering
+### 🔭 Building & exploring
+- Generative AI, RAG and LLM applications
+- Agentic workflows and intelligent automation
+- Computer vision and deep learning
+- Production-minded Python and web applications
 
-I enjoy building practical AI-powered applications that solve real-world problems and create meaningful value.
+</td><td width="50%" valign="top">
 
----
+### 🎯 What drives me
+- Turning research ideas into usable products
+- Writing maintainable, thoughtful software
+- Collaborating on meaningful AI projects
+- Continuous learning and experimentation
 
-## 🎯 Current Focus
+</td></tr></table>
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Generative_AI-LLMs-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Automation-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-Deep_Learning-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Research-Intelligent_Systems-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full-Stack-Applications-FFD166?style=for-the-badge" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1F6FEB?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A0A0A?style=flat)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat)
-
----
-
-## 📊 GitHub Statistics
+## ⚡ Technology toolkit
 
 <div align="center">
 
-  <a href="https://github.com/syedhabibahmadg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedhabibahmadg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=00D9FF" alt="GitHub Stats" />
-  </a>
+**Languages**
 
-  <a href="https://github.com/syedhabibahmadg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhabibahmadg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=00D9FF" alt="Top Languages" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,html,css&theme=dark" alt="Programming languages" />
+
+**AI, data & notebooks**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark" alt="AI and data technologies" />
+
+**Web & backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express&theme=dark" alt="Web technologies" />
+
+**Databases & tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github,linux,vscode,postman&theme=dark" alt="Databases and tools" />
+
+<sub>Also working with SQL, REST APIs, NLP, vector search, FAISS, Jupyter and Matplotlib.</sub>
 
 </div>
+
+## 🚀 Selected projects
+
+> A curated selection of AI, healthcare, retrieval, automation, and web engineering work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Brain Tumor Detection AI](https://github.com/syedhabibahmadg/-Brain-Tumor-Detection-AI-Deep-Learning-Medical-Image-Classifier)
+Deep-learning-based medical image classification project.
+
+`Python` `TensorFlow` `Keras` `Streamlit` `CNN`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Advanced RAG System](https://github.com/syedhabibahmadg/Advanced-RAG-System-with-Multi-Model-Support)
+Retrieval-augmented generation and AI document processing.
+
+`Python` `JavaScript` `RAG` `LLMs` `Vector Search`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🛡️ [Fraud-Aware Document Intelligence](https://github.com/syedhabibahmadg/Fraud-Aware-Docs-Intelligent-System)
+AI-agent-assisted document classification and validation.
+
+`Python` `AI Agents` `NLP` `Automation`
+
+</td>
+<td valign="top">
+
+### 🔎 [Local AI Semantic Search](https://github.com/syedhabibahmadg/Local-AI-Document-Processing-Semantic-Search-System)
+Local document processing and semantic retrieval.
+
+`Python` `FastAPI` `SentenceTransformers` `FAISS`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 💻 [Frontend Portfolio Project](https://github.com/syedhabibahmadg/B0626---Hafiz-Syed-Habib-Ahmad-Gillani---Innovaxel---Frontend-Developer)
+Responsive frontend and expense-tracking interface.
+
+`React` `Vite` `Tailwind CSS` `JavaScript`
+
+</td>
+<td valign="top">
+
+### 🩺 [Pneumonia Detection System](https://github.com/syedhabibahmadg/Chest-Pneumonia-detection-system-with-model-and-Frontend)
+Healthcare-focused image classification application.
+
+`Python` `TensorFlow` `CNN` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🎮 [DQN CartPole](https://github.com/syedhabibahmadg/dqn-cartpole-pytorch)
+Deep Q-learning experiment for CartPole.
+
+`Python` `PyTorch` `Gymnasium` `DQN`
+
+</td>
+<td valign="top">
+
+### 💬 [AI Chatbot](https://github.com/syedhabibahmadg/chatbot-ai)
+Conversational AI application with a modern interface.
+
+`TypeScript` `AI` `Chatbot` `Frontend`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/syedhabibahmadg?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-00B8C8?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
+</div>
+
+## 📈 GitHub at a glance
 
 <div align="center">
 
-  <a href="https://github.com/syedhabibahmadg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhabibahmadg&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  </a>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=syedhabibahmadg&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" media="(prefers-color-scheme: dark)" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=syedhabibahmadg&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" />
+</picture>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhabibahmadg&layout=compact&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhabibahmadg&layout=compact&hide_border=true&theme=default" alt="Most used repository languages" />
+</picture>
 
-  <a href="https://github.com/syedhabibahmadg">
-    <img src="https://github-profile-trophy.vercel.app/?username=syedhabibahmadg&theme=tokyonight&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
-  </a>
+<img src="https://streak-stats.demolab.com?user=syedhabibahmadg&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedhabibahmadg/syedhabibahmadg/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/syedhabibahmadg/syedhabibahmadg/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Statistics are generated by third-party services and may be temporarily unavailable. Snake animation appears after its workflow completes successfully.</sub>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/syedhabibahmadg/syedhabibahmadg/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 1) Brain Tumor Detection AI
-AI-powered medical imaging project for brain tumor classification using deep learning.
-
-**Tech Stack:** Python • TensorFlow • Keras • Streamlit • CNN  
-**Repository:** https://github.com/syedhabibahmadg/-Brain-Tumor-Detection-AI-Deep-Learning-Medical-Image-Classifier
-
----
-
-### 2) Advanced RAG System
-Multi-model retrieval-augmented generation system with robust AI document processing capabilities.
-
-**Tech Stack:** Python • JavaScript • RAG • LLMs • Vector Search  
-**Repository:** https://github.com/syedhabibahmadg/Advanced-RAG-System-with-Multi-Model-Support
-
----
-
-### 3) Fraud-Aware Document Intelligence System
-Multi-agent AI system for intelligent document classification, validation, and fraud-aware executive reporting.
-
-**Tech Stack:** Python • AI Agents • NLP • Document Processing • Automation  
-**Repository:** https://github.com/syedhabibahmadg/Fraud-Aware-Docs-Intelligent-System
-
----
-
-### 4) Local AI Document Processing & Semantic Search
-Offline AI-powered document processing and semantic search system built with open-source tools.
-
-**Tech Stack:** Python • FastAPI • SentenceTransformers • FAISS • Local AI  
-**Repository:** https://github.com/syedhabibahmadg/Local-AI-Document-Processing-Semantic-Search-System
-
----
-
-### 5) Frontend Developer Portfolio Project
-Professional frontend project built for a developer portfolio and expense-tracking UI.
-
-**Tech Stack:** React • Vite • Tailwind CSS • JavaScript  
-**Repository:** https://github.com/syedhabibahmadg/B0626---Hafiz-Syed-Habib-Ahmad-Gillani---Innovaxel---Frontend-Developer
-
----
-
-### 6) Medical AI & Healthcare Solutions
-Healthcare-focused AI projects for disease detection and diagnostics.
-
-**Tech Stack:** Python • TensorFlow • CNN • Streamlit • AI Healthcare  
-**Repository:** https://github.com/syedhabibahmadg/Chest-Pneumonia-detection-system-with-model-and-Frontend
-
----
-
-### 7) Reinforcement Learning Project
-Deep learning reinforcement learning implementation for CartPole.
-
-**Tech Stack:** Python • PyTorch • Gymnasium • DQN • Reinforcement Learning  
-**Repository:** https://github.com/syedhabibahmadg/dqn-cartpole-pytorch
-
----
-
-### 8) AI Chatbot
-AI-powered chatbot project with modern conversational interface.
-
-**Tech Stack:** TypeScript • AI • Chatbot • Frontend  
-**Repository:** https://github.com/syedhabibahmadg/chatbot-ai
-
----
 
 ## 🎓 Education
 
-| Degree | Institution | Status |
-|---|---|---|
-| MSc in Artificial Intelligence | University of Engineering and Technology (UET), Lahore, Pakistan | In Progress |
-| BSc in Computer Science | University of Engineering and Technology (UET), Lahore, Pakistan | Completed |
+| Degree | University | Status |
+|:--|:--|:--|
+| **MSc Artificial Intelligence** | UET Lahore, Pakistan | In progress |
+| **BSc Computer Science** | UET Lahore, Pakistan | Completed |
 
----
+## 🤝 Let's build something meaningful
 
-## 💬 Connect With Me
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/syedhabibahmadg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="mailto:hafizsyedhabibahmadgillani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
-  </a>
-
-</div>
-
-- **LinkedIn:** https://www.linkedin.com/in/hafiz-syed-habib-ahmad
-- **GitHub:** https://github.com/syedhabibahmadg
-- **Email:** hafizsyedhabibahmadgillani@gmail.com
-
----
-
-## 👀 Profile Visitors
+I'm interested in **AI/ML research collaborations, software engineering opportunities, open source, and intelligent automation projects**. If you're working on an interesting problem, I'd love to hear about it.
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=syedhabibahmadg&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile Visitors" />
+<a href="mailto:hafizsyedhabibahmadgillani@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-00B8C8?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
+<a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-</div>
+<sub>Made with curiosity, code, and a commitment to learning.</sub>
 
----
-
-## 🤝 Let’s Collaborate
-
-I am open to:
-- AI/ML collaborations
-- Research opportunities
-- Software engineering opportunities
-- Full-stack development projects
-- Open-source contributions
-- Intelligent automation systems
-
-If you want to build something impactful with AI, automation, or modern software engineering, feel free to connect.
-
----
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=flat-square" alt="Made with love" />
-
-  <p><strong>Hafiz Syed Habib Ahmad Gillani</strong></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9D9,55:27346B,100:0B1026" alt="Footer wave" />
 
 </div>
