@@ -1,0 +1,29 @@
+name: Validate and refresh profile artwork
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'config/profile.json'
+      - 'scripts/render_assets.py'
+      - 'assets/**'
+      - '.github/workflows/assets.yml'
+  pull_request:
+    paths:
+      - 'config/profile.json'
+      - 'scripts/render_assets.py'
+      - 'assets/**'
+      - '.github/workflows/assets.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check deterministic generated assets
+        run: python scripts/render_assets.py --check

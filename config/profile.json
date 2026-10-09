@@ -1,0 +1,18 @@
+{
+  "username": "syedhabibahmadg",
+  "full_name": "Hafiz Syed Habib Ahmad Gillani",
+  "display_name": "Habib Ahmad Gillani",
+  "subtitle": "AI ENGINEERING  /  FULL-STACK SYSTEMS  /  RESEARCH",
+  "email": "hafizsyedhabibahmadgillani@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/hafiz-syed-habib-ahmad",
+  "projects": [
+    {"slug":"brain-tumor","title":"Brain Tumor Detection AI","category":"HEALTHCARE AI","description":"Deep learning for medical-image classification","tech":["Python","TensorFlow","Keras","Streamlit"],"repo":"-Brain-Tumor-Detection-AI-Deep-Learning-Medical-Image-Classifier","accent":"#38BDF8"},
+    {"slug":"advanced-rag","title":"Advanced RAG System","category":"GENAI / RETRIEVAL","description":"Multi-model retrieval and document intelligence","tech":["Python","RAG","LLMs","Vector Search"],"repo":"Advanced-RAG-System-with-Multi-Model-Support","accent":"#A78BFA"},
+    {"slug":"fraud-docs","title":"Fraud-Aware Document AI","category":"AI AGENTS","description":"Agent-assisted document validation workflows","tech":["Python","AI Agents","NLP","Automation"],"repo":"Fraud-Aware-Docs-Intelligent-System","accent":"#2DD4BF"},
+    {"slug":"semantic-search","title":"Local AI Semantic Search","category":"PRIVATE / LOCAL AI","description":"Local-first document search and embeddings","tech":["FastAPI","FAISS","Python","Embeddings"],"repo":"Local-AI-Document-Processing-Semantic-Search-System","accent":"#FBBF24"},
+    {"slug":"frontend","title":"Frontend Portfolio Project","category":"FRONTEND ENGINEERING","description":"Responsive app and expense-tracking interface","tech":["React","Vite","Tailwind","JavaScript"],"repo":"B0626---Hafiz-Syed-Habib-Ahmad-Gillani---Innovaxel---Frontend-Developer","accent":"#FB7185"},
+    {"slug":"pneumonia","title":"Pneumonia Detection AI","category":"HEALTHCARE AI","description":"Deep-learning image classification application","tech":["Python","TensorFlow","CNN","Streamlit"],"repo":"Chest-Pneumonia-detection-system-with-model-and-Frontend","accent":"#34D399"},
+    {"slug":"dqn-cartpole","title":"DQN CartPole","category":"REINFORCEMENT LEARNING","description":"Deep Q-learning experiments with CartPole","tech":["PyTorch","Gymnasium","DQN","Python"],"repo":"dqn-cartpole-pytorch","accent":"#C4B5FD"},
+    {"slug":"ai-chatbot","title":"AI Chatbot","category":"CONVERSATIONAL AI","description":"Modern chatbot interface and AI experimentation","tech":["TypeScript","Chatbot","Frontend","AI"],"repo":"chatbot-ai","accent":"#60A5FA"}
+  ]
+}

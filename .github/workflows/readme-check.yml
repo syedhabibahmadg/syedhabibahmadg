@@ -1,0 +1,25 @@
+name: Validate profile README
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'README.md'
+      - 'assets/**'
+      - 'config/profile.json'
+      - 'scripts/check_readme.py'
+      - '.github/workflows/readme-check.yml'
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check README and local assets
+        run: python scripts/check_readme.py
