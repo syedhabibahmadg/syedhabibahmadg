@@ -1,31 +1,24 @@
 <div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Hafiz+Syed+Habib+Ahmad+Gillani;AI%2FML+Engineer;Python+Developer;Full-Stack+Developer;Software+Engineer;AI+Research+Enthusiast" alt="Typing SVG" />
+
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Hafiz+Syed+Habib+Ahmad+Gillani;AI%2FML+Engineer;Python+Developer;Full-Stack+Developer;Software+Engineer;AI+Research+Enthusiast" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/Welcome-to-my-GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="welcome badge" />
   </h1>
 
   <p>
-    <img src="https://img.shields.io/badge/Computer_Science-Graduate-00D9FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/MSc-Artificial_Intelligence-7C3AED?style=flat-square" />
-    <img src="https://img.shields.io/badge/UET-Lahore-10B981?style=flat-square" />
+    <strong>Computer Science Graduate • MSc in Artificial Intelligence • AI/ML Enthusiast • Software Engineer</strong>
   </p>
 
   <p>
-    <strong>AI/ML Engineer • Python Developer • Full-Stack Developer • Software Engineer</strong>
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/syedhabibahmadg" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://your-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=flat-square&logo=safari&logoColor=black" alt="Portfolio" />
+    <a href="mailto:hafizsyedhabibahmadgillani@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -35,28 +28,31 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate AI/ML engineer, Python developer, and software engineer with a strong foundation in Computer Science from the University of Engineering and Technology (UET), Lahore, Pakistan. I am currently pursuing an MSc in Artificial Intelligence and actively exploring innovations in Generative AI, LLMs, Computer Vision, Deep Learning, and Intelligent Automation.
+I am a passionate <strong>AI/ML engineer, Python developer, and software engineer</strong> with a strong foundation in Computer Science from the <strong>University of Engineering and Technology (UET), Lahore, Pakistan</strong>. I am currently pursuing an <strong>MSc in Artificial Intelligence</strong> and deeply interested in building intelligent systems that solve real-world problems.
 
-My interests include:
+My work and interests span across:
 - Generative AI and Large Language Models
-- Agentic AI and AI workflow automation
+- Agentic AI and AI automation
 - Computer Vision and Deep Learning
-- NLP and intelligent applications
-- Full-stack web development
-- Python-based automation and scalable software systems
+- NLP and intelligent information systems
+- Full-stack software development
+- Python-based automation and scalable engineering
 
-I enjoy building practical AI-powered applications that solve real-world challenges and create value through impactful software.
+I enjoy turning ideas into practical AI-powered products and building solutions that are both technically strong and impactful.
 
 ---
 
 ## 🎯 Current Focus
 
-- Generative AI & Large Language Models
-- Agentic AI & AI Automation
-- Computer Vision & Deep Learning
-- AI Research & Intelligent Systems
-- Full-Stack Product Development
-- Scalable Software Engineering
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Generative_AI-LLMs-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Automation-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Deep_Learning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Research-Intelligent_Systems-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full-Stack-Applications-FFD166?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -115,11 +111,11 @@ I enjoy building practical AI-powered applications that solve real-world challen
 <div align="center">
 
   <a href="https://github.com/syedhabibahmadg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedhabibahmadg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=00D9FF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedhabibahmadg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=00D9FF" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/syedhabibahmadg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhabibahmadg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=00D9FF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhabibahmadg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=00D9FF" alt="Top Languages" />
   </a>
 
 </div>
@@ -127,11 +123,11 @@ I enjoy building practical AI-powered applications that solve real-world challen
 <div align="center">
 
   <a href="https://github.com/syedhabibahmadg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhabibahmadg&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhabibahmadg&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
   </a>
 
   <a href="https://github.com/syedhabibahmadg">
-    <img src="https://github-profile-trophy.vercel.app/?username=syedhabibahmadg&theme=tokyonight&no-frame=true&row=1&column=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=syedhabibahmadg&theme=tokyonight&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
   </a>
 
 </div>
@@ -151,10 +147,10 @@ I enjoy building practical AI-powered applications that solve real-world challen
 ## 🚀 Featured Projects
 
 ### AI-Based Online Examination and Proctoring System (IntelliExam)
-An AI-powered exam proctoring and assessment platform focused on integrity, behavior monitoring, and secure online evaluation.
+A project focused on secure online assessment, behavior analysis, and AI-driven exam integrity monitoring.
 
 **Tech Stack:** Python • OpenCV • TensorFlow • FastAPI • React • PostgreSQL  
-**Repository:** Add your real repo URL here
+**Repository:** Add your real repo link here
 
 ---
 
@@ -162,23 +158,23 @@ An AI-powered exam proctoring and assessment platform focused on integrity, beha
 A collection of AI/ML projects covering deep learning, computer vision, NLP, and intelligent automation.
 
 **Tech Stack:** Python • PyTorch • TensorFlow • Scikit-learn • OpenCV  
-**Repository:** Add your real repo URL here
+**Repository:** Add your real repo link here
 
 ---
 
 ### Python Automation Tools
-Utility scripts and automation tools for productivity, file workflows, and operational efficiency.
+Automation utilities for repetitive tasks, workflow optimization, and productivity enhancement.
 
 **Tech Stack:** Python • Selenium • BeautifulSoup • Asyncio  
-**Repository:** Add your real repo URL here
+**Repository:** Add your real repo link here
 
 ---
 
 ### Full-Stack Web Applications
-Modern and scalable web applications with a strong focus on functionality, UI, and backend reliability.
+Modern and scalable web applications with strong frontend and backend architecture.
 
 **Tech Stack:** React • Next.js • Node.js • FastAPI • PostgreSQL • Docker  
-**Repository:** Add your real repo URL here
+**Repository:** Add your real repo link here
 
 ---
 
@@ -195,25 +191,21 @@ Modern and scalable web applications with a strong focus on functionality, UI, a
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hafiz-syed-habib-ahmad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/syedhabibahmadg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=flat-square&logo=safari&logoColor=black" alt="Portfolio" />
+  <a href="mailto:hafizsyedhabibahmadgillani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
 
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- **LinkedIn:** https://www.linkedin.com/in/hafiz-syed-habib-ahmad
 - **GitHub:** https://github.com/syedhabibahmadg
-- **Email:** your-email@example.com
-- **Portfolio:** https://your-portfolio.com
+- **Email:** hafizsyedhabibahmadgillani@gmail.com
 
 ---
 
@@ -243,7 +235,7 @@ If you want to build something impactful with AI, automation, or modern software
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" alt="Made with love" />
 
   <p><strong>Hafiz Syed Habib Ahmad Gillani</strong></p>
 
