@@ -144,35 +144,67 @@ I enjoy building practical AI-powered applications that solve real-world problem
 
 ## 🚀 Featured Projects
 
-### AI-Based Online Examination and Proctoring System (IntelliExam)
-AI-powered online assessment and proctoring system focused on secure evaluation and behavior monitoring.
+### 1) Brain Tumor Detection AI
+AI-powered medical imaging project for brain tumor classification using deep learning.
 
-**Tech Stack:** Python • OpenCV • TensorFlow • FastAPI • React • PostgreSQL  
-**Repository:** Add your real repo link here
-
----
-
-### AI and Machine Learning Applications
-Collection of projects covering deep learning, computer vision, NLP, and intelligent automation.
-
-**Tech Stack:** Python • PyTorch • TensorFlow • Scikit-learn • OpenCV  
-**Repository:** Add your real repo link here
+**Tech Stack:** Python • TensorFlow • Keras • Streamlit • CNN  
+**Repository:** https://github.com/syedhabibahmadg/-Brain-Tumor-Detection-AI-Deep-Learning-Medical-Image-Classifier
 
 ---
 
-### Python Automation Tools
-Tools and scripts for productivity, workflows, automation, and system optimization.
+### 2) Advanced RAG System
+Multi-model retrieval-augmented generation system with robust AI document processing capabilities.
 
-**Tech Stack:** Python • Selenium • BeautifulSoup • Asyncio  
-**Repository:** Add your real repo link here
+**Tech Stack:** Python • JavaScript • RAG • LLMs • Vector Search  
+**Repository:** https://github.com/syedhabibahmadg/Advanced-RAG-System-with-Multi-Model-Support
 
 ---
 
-### Full-Stack Web Applications
-Modern and scalable applications with strong front-end, back-end, and deployment architecture.
+### 3) Fraud-Aware Document Intelligence System
+Multi-agent AI system for intelligent document classification, validation, and fraud-aware executive reporting.
 
-**Tech Stack:** React • Next.js • Node.js • FastAPI • PostgreSQL • Docker  
-**Repository:** Add your real repo link here
+**Tech Stack:** Python • AI Agents • NLP • Document Processing • Automation  
+**Repository:** https://github.com/syedhabibahmadg/Fraud-Aware-Docs-Intelligent-System
+
+---
+
+### 4) Local AI Document Processing & Semantic Search
+Offline AI-powered document processing and semantic search system built with open-source tools.
+
+**Tech Stack:** Python • FastAPI • SentenceTransformers • FAISS • Local AI  
+**Repository:** https://github.com/syedhabibahmadg/Local-AI-Document-Processing-Semantic-Search-System
+
+---
+
+### 5) Frontend Developer Portfolio Project
+Professional frontend project built for a developer portfolio and expense-tracking UI.
+
+**Tech Stack:** React • Vite • Tailwind CSS • JavaScript  
+**Repository:** https://github.com/syedhabibahmadg/B0626---Hafiz-Syed-Habib-Ahmad-Gillani---Innovaxel---Frontend-Developer
+
+---
+
+### 6) Medical AI & Healthcare Solutions
+Healthcare-focused AI projects for disease detection and diagnostics.
+
+**Tech Stack:** Python • TensorFlow • CNN • Streamlit • AI Healthcare  
+**Repository:** https://github.com/syedhabibahmadg/Chest-Pneumonia-detection-system-with-model-and-Frontend
+
+---
+
+### 7) Reinforcement Learning Project
+Deep learning reinforcement learning implementation for CartPole.
+
+**Tech Stack:** Python • PyTorch • Gymnasium • DQN • Reinforcement Learning  
+**Repository:** https://github.com/syedhabibahmadg/dqn-cartpole-pytorch
+
+---
+
+### 8) AI Chatbot
+AI-powered chatbot project with modern conversational interface.
+
+**Tech Stack:** TypeScript • AI • Chatbot • Frontend  
+**Repository:** https://github.com/syedhabibahmadg/chatbot-ai
 
 ---
 
